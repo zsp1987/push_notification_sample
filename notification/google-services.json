@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912211083811",
+    "project_id": "zfcm-cf5b9",
+    "storage_bucket": "zfcm-cf5b9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912211083811:android:d287733e3bde4c6195e796",
+        "android_client_info": {
+          "package_name": "com.zsp1987.pnsample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvqgRYUOdleLUiqx5A0jAlkphxijmq1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
